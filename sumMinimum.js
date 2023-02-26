@@ -6,4 +6,4 @@ function sumOfMinimums(arr) {
   }
   
   return total;
-}
+};
