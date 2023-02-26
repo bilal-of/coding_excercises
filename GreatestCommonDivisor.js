@@ -9,4 +9,4 @@ function mygcd(a,b){
       	}
   	}
   	return a;
-}
+};
